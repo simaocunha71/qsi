@@ -8,3 +8,10 @@
 #### TP2: Ensaio sobre ferramentas de monitorização de performance e QoS na Internet
 * Enunciado: [Aqui](https://github.com/simaocunha71/qsi/blob/main/tp2/QoSI_TP2.pdf)
 * Relatório: [Aqui](https://github.com/simaocunha71/qsi/blob/main/tp2/QoSI_TP2_Relatorio_G01.pdf)
+
+#### TP3: Ferramenta para monitorização de QoS na Internet
+* Repositório: [Aqui](https://github.com/realRunlo/CNP)
+
+#### TP4: Estudo de QoS e Mecanismos de Controlo de Tráfego em redes IP
+* Enunciado: [Aqui](https://github.com/simaocunha71/qsi/blob/main/tp4/QoSI_TP4.pdf)
+* Relatório: [Aqui](https://github.com/simaocunha71/qsi/blob/main/tp4/QoSI_TP4_Relatorio_G01.pdf)
